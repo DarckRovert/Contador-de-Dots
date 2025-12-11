@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: DoTimer
+## Author: Elnazzareno (DarckRovert) - El Sequito del Terror
+## Version: 1.1.6
+## Notes: Displays duration timers for DoTs
+## Notes-ruRU: Таймер дот
+## SavedVariablesPerCharacter: DoTimer_Settings
+SpellSystem\SpellSystem.xml
+DoTimer\DoTimer.xml
